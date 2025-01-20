@@ -6,7 +6,7 @@
 <!--img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/03/89/5f/03895f4b7f947fca2aac0523eeb81a7d.gif" />
 
- <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;*** Sobre mi!***
+ <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi!***
 
 💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
 
@@ -36,9 +36,18 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 
-<img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Iidiomas***
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Consolas de Videojuegos***
 
-🇪🇸 Español
-🇬🇧 Inglés
+ <span>
+    <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
+    <img src="https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white">
+    <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+    <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white">
+</span>
+
+<img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Idiomas***
+
+• Español
+• Inglés
 
 
