@@ -16,7 +16,7 @@
 
 💬 ¡Explora mis proyectos y no dudes en contactarme para trabajar juntos o simplemente compartir ideas!
 
-## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Lenguajes***
+## <img src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Retro-Mushroom-Super-icon.png" width="30px">&nbsp;***Lenguajes***
 
  <span>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
  </span>
 
- ## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***IDEs/Editors***
+ ## <img src="https://static.wikia.nocookie.net/fantendo/images/0/04/8-bit_SMB1_Fire_Flower.png/revision/latest/smart/width/250/height/250?cb=20210629010647" width="30px">&nbsp;***IDEs/Editors***
 
  <span>
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 
- ## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Consolas de Videojuegos***
+ ## <img src="https://art.pixilart.com/03c2ada183201c0.png" width="30px">&nbsp;***Consolas de Videojuegos***
 
  <span>
     <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white">
 </span>
 
-## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Idiomas***
+## <img src="https://static.wikia.nocookie.net/abobo/images/9/9a/Goomba.gif/revision/latest/scale-to-width-down/250?cb=20120704060625" width="30px">&nbsp;***Idiomas***
 
 - Español
 - Inglés
