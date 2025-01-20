@@ -4,15 +4,14 @@
 -->
 
 <!--img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://i.pinimg.com/originals/03/89/5f/03895f4b7f947fca2aac0523eeb81a7d.gif)" />
 
-## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi***
+## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi!***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
+
+🕹️ Soy fanático de los videojuegos desde hace mas 15 años, especialmente de la saga de Nintendo, y me inspiro en la creatividad y la diversión que aportan. Mi sueño es contribuir al mundo de los videojuegos, uniendo mi pasión por la tecnología y el entretenimiento. Ademas, aspiro a unirme a una empresa de tecnología o videojuegos donde pueda combinar creatividad y desarrollo técnico para crear productos memorables.
+
+🎯 Siempre estoy aprendiendo nuevas tecnologías y disfruto colaborando en proyectos interesantes. Estoy abierto a oportunidades de colaboración y a charlas sobre desarrollo de software o videojuegos.
+
+💬 ¡Explora mis proyectos y no dudes en contactarme para trabajar juntos o simplemente compartir ideas!
