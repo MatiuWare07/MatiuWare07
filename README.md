@@ -6,7 +6,7 @@
 <!--img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/03/89/5f/03895f4b7f947fca2aac0523eeb81a7d.gif" />
 
- <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi!***
+## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi!***
 
 💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
 
@@ -16,7 +16,7 @@
 
 💬 ¡Explora mis proyectos y no dudes en contactarme para trabajar juntos o simplemente compartir ideas!
 
- <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Lenguajes***
+## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Lenguajes***
 
  <span>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -24,10 +24,11 @@
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white CSS"> 
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white CSS">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
  </span>
 
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***IDEs/Editors***
+ ## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***IDEs/Editors***
 
  <span>
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
@@ -36,7 +37,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Consolas de Videojuegos***
+ ## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Consolas de Videojuegos***
 
  <span>
     <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
@@ -45,9 +46,9 @@
     <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white">
 </span>
 
-<img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Idiomas***
+## <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Idiomas***
 
-• Español
-• Inglés
+- Español
+- Inglés
 
 
