@@ -8,7 +8,7 @@
 
 <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi!***
 
-💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
+💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, JSON, XML, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
 
 🕹️ Soy fanático de los videojuegos desde hace mas de 15 años, especialmente de la saga de Nintendo, y me inspiro en la creatividad y la diversión que aportan. Mi sueño es contribuir al mundo de los videojuegos, uniendo mi pasión por la tecnología y el entretenimiento. Ademas, aspiro a unirme a una empresa de tecnología o videojuegos donde pueda combinar creatividad y desarrollo técnico para crear productos memorables.
 
