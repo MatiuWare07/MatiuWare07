@@ -6,7 +6,7 @@
 <!--img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/51/5a/8d/515a8da287ae3d77dfbf851515c63734.gif" />
 
-<img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png" width="30px">&nbsp;***Sobre mi!***
+<img src="[https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29185331/super-mario-bros-8-bit-logo-3AFFC4525F-seeklogo.com.png](https://icons.iconseeker.com/png/fullsize/super-mario/super-paper-mario.png)" width="30px">&nbsp;***Sobre mi!***
 
 💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, JSON, XML, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
 
