@@ -6,7 +6,7 @@
 <!--img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/51/5a/8d/515a8da287ae3d77dfbf851515c63734.gif" />
 
-<img src="https://www.icons101.com/icon_ico/id_75924/Retro_Mario.ico" width="30px"> &nbsp; ***Sobre mi!***
+<img src="https://files.softicons.com/download/game-icons/super-mario-icons-by-sandro-pereira/ico/Flower%20-%20Fire.ico" width="30px"> &nbsp; ***Sobre mi!***
 
 💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, JSON, XML, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
 
