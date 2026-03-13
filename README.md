@@ -6,7 +6,7 @@
 <!--img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/51/5a/8d/515a8da287ae3d77dfbf851515c63734.gif" />
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77546e83-4a68-4264-99f7-6bdfc8f0eaf8/daey3gp-748c4abc-c714-4bc8-bd58-d8fdaa6279a0.png" width="30px"> &nbsp; ***Sobre mi!***
+<img src="https://www.icons101.com/icon_ico/id_75924/Retro_Mario.ico" width="30px"> &nbsp; ***Sobre mi!***
 
 💻 Tengo experiencia en programación con lenguajes como Java, HTML5, CSS, JSON, XML, Kotlin y Python, además de manejo de bases de datos con SQL Developer. Me encanta trabajar en el desarrollo de aplicaciones de escritorio y siempre estoy buscando formas de mejorar mis habilidades.
 
