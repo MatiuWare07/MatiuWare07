@@ -4,6 +4,8 @@
 
 ## 💻 About me!
 
+<img align="right" src="https://static.wikia.nocookie.net/fantendo/images/8/83/SMB_Mario_Poses.gif" width="150px">
+
 💻 I have experience programming in Java, Kotlin, Python, JavaScript, HTML5 and CSS, 
 as well as backend development with Spring Boot, REST APIs, JWT authentication 
 and cloud deployment on AWS EC2. I enjoy building production-ready applications 
