@@ -69,7 +69,7 @@ cloud architecture and AI agents.
 ## <img src="https://static.wikia.nocookie.net/abobo/images/9/9a/Goomba.gif/revision/latest/scale-to-width-down/250?cb=20120704060625" width="30px">&nbsp;***Human Languages***
 
 - Spanish (Native)
-- English (B1)
+- English (B2)
 - French (B2)
 - Danish (A1 — Learning 🇩🇰)
 
