@@ -22,7 +22,7 @@ cloud architecture and AI agents.
 
 📬 Feel free to explore my projects and don't hesitate to reach out!
 
-📍 Based in Copenhagen, Denmark | 🔗 [linkedin.com/in/mateo-fitipaldi](https://linkedin.com/in/mateo-fitipaldi)
+
 
 ---
 
